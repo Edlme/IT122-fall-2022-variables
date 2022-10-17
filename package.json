@@ -1,0 +1,23 @@
+{
+  "name": "it122-fall-2022-variables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edlme/IT122-fall-2022-variables.git"
+  },
+  "author": "Edlawit Girma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edlme/IT122-fall-2022-variables/issues"
+  },
+  "homepage": "https://github.com/Edlme/IT122-fall-2022-variables#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
